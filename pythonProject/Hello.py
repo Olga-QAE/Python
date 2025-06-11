@@ -1,15 +1,5 @@
-myvar = "John"
-my_var = "John"
-_my_var = "John"
-myVar = "John"
-MYVAR = "John"
-myvar2 = "John"
+import random
 
+print(random.randrange(1, 10))
 
-print(myvar)
-print(my_var)
-print(_my_var)
-print(myVar)
-print(MYVAR)
-print(myvar2)
 
