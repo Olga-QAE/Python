@@ -1,5 +1,9 @@
-import random
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(thisdict["brand"])
 
-print(random.randrange(1, 10))
 
 
